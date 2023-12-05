@@ -5,13 +5,13 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 ## 🚀 My Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, C, C++, Python
----
+
 - **Frontend:** React, React Native, Angular, Next.js
----
+
 - **Backend:** Node.js, Express, Django
----
+
 - **Databases:** MongoDB, MySQL
----
+
 - **Machine Learning:** TensorFlow, PyTorch, scikit-learn, Pandas
 
 
