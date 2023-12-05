@@ -4,33 +4,58 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 
 ## 🚀 My Tech Stack
 
-- **Languages:**
-  - JavaScript (ES6+)
-  - TypeScript
-  - C
-  - Python
+<div style="background-color: #add8e6; padding: 20px; border-radius: 12px; display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-- **Frontend:**
-  - React
-  - React Native
-  - Angular
-  - Next.js
+  <div style="margin: 10px;">
+    <strong>Languages:</strong>
+    <ul>
+      <li>JavaScript (ES6+)</li>
+      <li>TypeScript</li>
+      <li>C</li>
+      <li>C++</li>
+      <li>Python</li>
+    </ul>
+  </div>
 
-- **Backend:**
-  - Node.js
-  - Express
-  - Django
+  <div style="margin: 10px;">
+    <strong>Frontend:</strong>
+    <ul>
+      <li>React</li>
+      <li>React Native</li>
+      <li>Angular</li>
+      <li>Next.js</li>
+    </ul>
+  </div>
 
-- **Databases:**
-  - MongoDB
-  - MySQL
+  <div style="margin: 10px;">
+    <strong>Backend:</strong>
+    <ul>
+      <li>Node.js</li>
+      <li>Express</li>
+      <li>Django</li>
+    </ul>
+  </div>
 
-- **Machine Learning:**
-  - TensorFlow
-  - Pytorch
-  - scikit-learn
-  - Pandas
-  
+  <div style="margin: 10px;">
+    <strong>Databases:</strong>
+    <ul>
+      <li>MongoDB</li>
+      <li>MySQL</li>
+    </ul>
+  </div>
+
+  <div style="margin: 10px;">
+    <strong>Machine Learning:</strong>
+    <ul>
+      <li>TensorFlow</li>
+      <li>PyTorch</li>
+      <li>scikit-learn</li>
+      <li>Pandas</li>
+    </ul>
+  </div>
+
+</div>
+
 
 ## 💼 Projects
 
