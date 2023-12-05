@@ -4,9 +4,6 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 
 ## 🚀 My Tech Stack
 
-
-## 🚀 My Tech Stack
-
 - **Languages:**
   - JavaScript (ES6+)
   - TypeScript
@@ -27,7 +24,6 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 - **Databases:**
   - MongoDB
   - MySQL
-
 
 - **Machine Learning:**
   - TensorFlow
