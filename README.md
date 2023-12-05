@@ -4,57 +4,15 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 
 ## 🚀 My Tech Stack
 
-<div style="background-color: #add8e6; padding: 20px; border-radius: 12px; display: flex; flex-wrap: wrap; justify-content: space-around;">
-
-  <div style="margin: 10px;">
-    <strong>Languages:</strong>
-    <ul>
-      <li>JavaScript (ES6+)</li>
-      <li>TypeScript</li>
-      <li>C</li>
-      <li>C++</li>
-      <li>Python</li>
-    </ul>
-  </div>
-
-  <div style="margin: 10px;">
-    <strong>Frontend:</strong>
-    <ul>
-      <li>React</li>
-      <li>React Native</li>
-      <li>Angular</li>
-      <li>Next.js</li>
-    </ul>
-  </div>
-
-  <div style="margin: 10px;">
-    <strong>Backend:</strong>
-    <ul>
-      <li>Node.js</li>
-      <li>Express</li>
-      <li>Django</li>
-    </ul>
-  </div>
-
-  <div style="margin: 10px;">
-    <strong>Databases:</strong>
-    <ul>
-      <li>MongoDB</li>
-      <li>MySQL</li>
-    </ul>
-  </div>
-
-  <div style="margin: 10px;">
-    <strong>Machine Learning:</strong>
-    <ul>
-      <li>TensorFlow</li>
-      <li>PyTorch</li>
-      <li>scikit-learn</li>
-      <li>Pandas</li>
-    </ul>
-  </div>
-
-</div>
+- **Languages:** JavaScript (ES6+), TypeScript, C, C++, Python
+---
+- **Frontend:** React, React Native, Angular, Next.js
+---
+- **Backend:** Node.js, Express, Django
+---
+- **Databases:** MongoDB, MySQL
+---
+- **Machine Learning:** TensorFlow, PyTorch, scikit-learn, Pandas
 
 
 ## 💼 Projects
