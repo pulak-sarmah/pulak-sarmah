@@ -39,7 +39,7 @@ Currently diving deep into:
 - Email: [pulaksarmah333@gmail.com](mailto:pulaksarmah333@gmail.com)
 
 
-<!-- GitHub Stats -->
+## ⭐️ GitHub Stats 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulak-sarmah&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 <!-- Top Languages -->
