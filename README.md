@@ -25,12 +25,21 @@ Here are some of my favorite projects:
 - 🔥 [Game of Dice](https://github.com/pulak-sarmah/Game_of_dices): Simple Js game
 
 
+Feel free to explore more on my [Portfolio](https://www.pulaksarmah.in/)!
+
+
+
+
+
 ## 🐳 PostgreSQL Docker Setup
 
 [Link to Docker Setup Repository](https://github.com/pulak-sarmah/Docker_postgres): Skip manual installs. Use Docker for effortless database setup. No fuss, no hassle. Just Dockerize!
 
 
-Feel free to explore more on my [Portfolio](https://www.pulaksarmah.in/)!
+
+
+
+
 
 ## 🌱 What I'm Learning
 
