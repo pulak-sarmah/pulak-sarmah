@@ -24,6 +24,12 @@ Here are some of my favorite projects:
 - 👾 [Node Backend for CloudTube](https://github.com/pulak-sarmah/NodeBackend): Production grade backend for a video-sharing platform. 
 - 🔥 [Game of Dice](https://github.com/pulak-sarmah/Game_of_dices): Simple Js game
 
+
+## 🐳 PostgreSQL Docker Setup
+
+[Link to Docker Setup Repository](https://github.com/pulak-sarmah/Docker_postgres): Skip manual installs. Use Docker for effortless database setup. No fuss, no hassle. Just Dockerize!
+
+
 Feel free to explore more on my [Portfolio](https://www.pulaksarmah.in/)!
 
 ## 🌱 What I'm Learning
@@ -32,6 +38,7 @@ Currently diving deep into:
 - System Design principles
 - Docker and containerization
 - Kubernetes for orchestration
+
 
 ## 📫 Get in Touch
 
