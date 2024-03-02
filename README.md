@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 
 - **Frontend:** React, React Native, Angular, Next.js
 
-- **Backend:** Node.js, Express, Django, Flask
+- **Backend:** Node.js, Express, Django, DRF, Flask
 
 - **Databases:** MongoDB, MySQL, PostgreSQL
 
