@@ -12,8 +12,11 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 
 - **Databases:** MongoDB, MySQL, PostgreSQL
 
+- - **Testing:** Jest, Playwright
+
 - **Machine Learning:** TensorFlow, PyTorch, scikit-learn, Pandas
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript (ES6+), <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="20" height="20"/> TypeScript, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="20" height="20"/> C, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C++, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java
 
 ## 💼 Projects
 
