@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a Full Stack Developer with expertise in the MERN stac
 
 - **Databases:** MongoDB, MySQL, PostgreSQL
 
-- - **Testing:** Jest, Playwright
+- **Testing:** Jest, Playwright
 
 - **Machine Learning:** TensorFlow, PyTorch, scikit-learn, Pandas
 
